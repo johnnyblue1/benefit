@@ -1,4 +1,4 @@
 <?php
-// golden is silence
+// golden is #johnnyblue_1
 
 ?>
